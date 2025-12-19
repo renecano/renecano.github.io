@@ -16,4 +16,4 @@ I'm an **ITC student** focused on building real-world software projects involvin
 - **IoT Plant Monitoring System** (ESP8266 + MQTT + Flask)
 - **Fork/Join Graph Visualizer** (JavaFX)
 
-👉 Check the **Projects** section to see more.
+View all my work here: **/projects/**
