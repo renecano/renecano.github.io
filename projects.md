@@ -25,7 +25,7 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </ul>
     <div class="card-actions">
       <a class="btn btn-primary" href="https://github.com/renecano/ventas-inventario-streamlit" target="_blank" rel="noopener">Repository</a>
-      <a class="btn btn-ghost" href="/blog/">Case study</a>
+      <a class="btn btn-ghost" href="/blog/projects/sales-inventory-system/">Case study</a>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </ul>
     <div class="card-actions">
       <a class="btn btn-primary" href="https://github.com/renecano/IoT-Plant-Monitoring-System-ESP8266-MQTT-Flask-SQLite" target="_blank" rel="noopener">Repository</a>
-      <a class="btn btn-ghost" href="/blog/">Read post</a>
+      <a class="btn btn-ghost" href="/blog/projects/iot-plant-monitoring/">Read post</a>
     </div>
   </div>
 
@@ -63,7 +63,7 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </ul>
     <div class="card-actions">
       <a class="btn btn-primary" href="https://github.com/renecano/grafos-fork-join-visualizer" target="_blank" rel="noopener">Repository</a>
-      <a class="btn btn-ghost" href="/blog/">Technical breakdown</a>
+      <a class="btn btn-ghost" href="/blog/projects/fork-join-dag-visualizer/">Technical breakdown</a>
     </div>
   </div>
 
