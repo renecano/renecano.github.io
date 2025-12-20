@@ -194,6 +194,14 @@ h2{
   gap: 0.55rem;
   flex-wrap: wrap;
 }
+.card ul{
+  margin: 0.8rem 0 0 1.15rem;
+}
+
+.card li{
+  margin-bottom: 0.35rem;
+  color: #374151;
+}
 
 .badge{
   display:inline-block;
