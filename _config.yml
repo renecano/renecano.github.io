@@ -1,4 +1,4 @@
-title: René Emiliano Cano Fuentes
+title: René Cano
 description: ITC Student | Software & Data Projects
 theme: minima
 author: René Cano
@@ -6,4 +6,5 @@ author: René Cano
 header_pages:
   - index.md
   - projects.md
+  - blog.md
   - about.md
