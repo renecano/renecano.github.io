@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renecano.github.io/sitemap.xml
