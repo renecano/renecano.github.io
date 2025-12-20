@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+description: About René Cano, Computer Technologies Engineering student with experience in software, data, and IoT systems.
+
 ---
 
 ## Hi, I'm René Cano
