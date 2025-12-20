@@ -31,3 +31,9 @@ Upcoming posts will cover topics such as:
 - Visualizing concurrency using Fork/Join and DAGs  
 
 Thanks for reading.
+
+--- 
+You can also explore:
+- [All projects](/projects/)
+- [More technical posts](/blog/)
+
