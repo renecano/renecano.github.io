@@ -5,6 +5,7 @@ author: René Cano
 url: https://renecano.github.io
 
 header_pages:
+  - home.md
   - projects.md
   - blog.md
   - about.md
