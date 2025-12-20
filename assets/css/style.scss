@@ -3,51 +3,67 @@
 
 @import "minima";
 
-/* Layout width + spacing */
+/* =========================
+   Layout base
+   ========================= */
+
 .wrapper {
   max-width: 980px;
 }
 
-/* Hero block */
+/* =========================
+   Hero block
+   ========================= */
+
 .hero {
-  margin: 2.8rem 0 2.2rem 0;
-  padding: 1.8rem 1.6rem;
-  border: 1px solid #eee;
-  border-radius: 16px;
-  background: #fafafa;
-  text-align: left;
+  margin: 3rem 0 2.6rem 0;
+  padding: 2.2rem 2rem;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #fafafa, #f4f4f4);
+  border: 1px solid #eaeaea;
 }
 
 .hero h3 {
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   margin: 0 0 0.6rem 0;
-  letter-spacing: -0.02em;
-  line-height: 1.1;
+  letter-spacing: -0.03em;
 }
 
-.hero strong {
+.hero-role {
+  margin: 0;
   font-size: 1.05rem;
+  color: #444;
+  font-weight: 600;
 }
 
-.hero p {
-  margin: 0.2rem 0 0 0;
-  color: #555;
+.hero-tagline {
+  margin-top: 0.4rem;
   font-size: 1.05rem;
+  color: #666;
 }
 
-/* Headings look more “sectioned” */
+/* =========================
+   Section headers
+   ========================= */
+
 h2 {
-  margin-top: 2.4rem;
-  padding-bottom: 0.35rem;
+  margin-top: 2.8rem;
+  padding-bottom: 0.4rem;
   border-bottom: 2px solid #eee;
 }
 
-/* Lists breathe more */
+/* =========================
+   Lists
+   ========================= */
+
 ul li {
   margin-bottom: 0.55rem;
 }
 
-/* Links feel modern */
+/* =========================
+   Links
+   ========================= */
+
 a {
   text-decoration: none;
 }
@@ -55,3 +71,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
