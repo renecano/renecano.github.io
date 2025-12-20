@@ -10,13 +10,15 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 ---
 
-### 🔹 What I build
+
+### What I build
 - Data-driven applications and dashboards  
 - Backend systems and software tools  
 - IoT prototypes and monitoring systems  
 - Visual and interactive engineering solutions  
 
 ---
+
 
 ### Featured Work
 
@@ -36,7 +38,8 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 ---
 
-### 🔹 Why this site exists
+
+### Why this site exists
 This portfolio documents my growth as an engineer through:
 - Real projects  
 - Technical decisions  
@@ -46,6 +49,7 @@ Each project is backed by code and technical explanations.
 
 ---
 
+
 ### Explore more
 - [Projects](/projects/)
 - [Blog](/blog/)
@@ -53,6 +57,7 @@ Each project is backed by code and technical explanations.
 
 
 ---
+
 
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/rene-emiliano-cano-fuentes  
