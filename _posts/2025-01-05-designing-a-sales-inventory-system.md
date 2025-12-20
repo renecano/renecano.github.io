@@ -4,6 +4,7 @@ title: "Designing a Sales & Inventory System with Streamlit"
 description: "Design and implementation of a sales and inventory system using Streamlit, Python, and SQL, focused on practical business needs."
 date: 2025-10-05
 categories: blog projects
+permalink: /blog/projects/sales-inventory-system/
 ---
 
 One of my main projects so far has been the design and development of a **Sales & Inventory Registration System** using **Streamlit**.
