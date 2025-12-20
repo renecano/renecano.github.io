@@ -4,6 +4,7 @@ title: "Building an IoT Plant Monitoring System (ESP8266 + MQTT + Flask)"
 description: "End-to-end IoT plant monitoring system using ESP8266, MQTT, Flask, and SQLite, from sensors to real-time dashboard."
 date: 2025-11-08
 categories: blog projects iot
+permalink: /blog/projects/iot-plant-monitoring/
 ---
 
 This project is an end-to-end **IoT Plant Monitoring System** designed to capture environmental data and display it in a real-time dashboard.
