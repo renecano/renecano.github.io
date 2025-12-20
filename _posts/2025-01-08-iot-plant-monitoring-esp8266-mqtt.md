@@ -95,5 +95,7 @@ https://github.com/renecano/IoT-Plant-Monitoring-System-ESP8266-MQTT-Flask-SQLit
 
 ---
 
-**Repository:**  
-https://github.com/renecano/grafos-fork-join-visualizer
+You can also explore:
+- [All projects](/projects/)
+- [More technical posts](/blog/)
+
