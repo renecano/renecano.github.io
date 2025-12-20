@@ -7,7 +7,6 @@ description: Portfolio of René Cano, ITC student focused on software engineerin
 <div class="hero">
   <h1>René Cano</h1>
   <p class="hero-role">Computer Technologies Engineering (ITC) student</p>
-  <p class="hero-tagline">Building software, data-driven systems, and IoT projects.</p>
 
   <div class="hero-cta">
     <a class="btn btn-primary" href="/projects/">Projects</a>
