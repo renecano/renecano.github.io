@@ -45,7 +45,7 @@ I’m especially interested in turning **theory into practical solutions** throu
     </div>
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
-      <a class="btn btn-ghost" href="/2025/01/05/designing-a-sales-inventory-system/">Read case study</a>
+      <a class="btn btn-ghost" href="/blog/projects/sales-inventory-system/">Read case study</a>
     </div>
   </div>
 
