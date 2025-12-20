@@ -12,7 +12,7 @@ I’m especially interested in how **software, data, and engineering** come toge
 
 ---
 
-## 🔹 Background
+## Background
 My profile combines technical training with hands-on experience through projects focused on:
 - Software development  
 - Data analysis and visualization  
@@ -22,7 +22,7 @@ I enjoy learning by building and iterating on real projects.
 
 ---
 
-## 🔹 Certifications
+## Certifications
 I have earned certifications in:
 - Power BI  
 - Google Cloud  
@@ -35,7 +35,7 @@ These have strengthened my skills in data analysis, visualization, and decision-
 
 ---
 
-## 🔹 Technical Skills
+## Technical Skills
 
 ### Languages
 - Python  
@@ -55,7 +55,7 @@ These have strengthened my skills in data analysis, visualization, and decision-
 
 ---
 
-## 🔹 Current Focus
+## Current Focus
 - Expanding a sales & inventory system with analytics  
 - Practicing algorithms and data structures  
 - Building IoT prototypes  
@@ -64,6 +64,6 @@ These have strengthened my skills in data analysis, visualization, and decision-
 
 ---
 
-## 🔹 Contact
+## Contact
 - **LinkedIn:** https://www.linkedin.com/in/rene-emiliano-cano-fuentes  
 - **Email:** renecano.f@gmail.com
