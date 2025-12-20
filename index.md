@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: Hi, I'm René Cano
+permalink: /
 ---
 
 I’m a **Computer Technologies Engineering (ITC)** student at *Tecnológico de Monterrey* who builds **real-world software and engineering projects** focused on data, systems, and applied technology.
