@@ -45,6 +45,7 @@ body{
 
 .page-content p{
   margin: 0.9rem 0;
+  padding-top: 0.8rem;
 }
 
 /* =========================
@@ -115,6 +116,7 @@ h2{
   background: linear-gradient(180deg, #ffffff, var(--soft));
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
+  margin-top: 1.2rem;
 }
 
 .hero h1, .hero h3{
