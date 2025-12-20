@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building Real Projects as an ITC Student"
+description: "How building real software, data, and IoT projects helps an ITC student develop practical engineering skills beyond theory."
 date: 2025-01-01
 categories: blog
 ---
