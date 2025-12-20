@@ -227,6 +227,32 @@ h2{
   .card{ grid-column: span 4; }
 }
 
+/* =========================
+   Blog polish
+   ========================= */
+
+.blog-intro{
+  margin: 0.25rem 0 1rem 0;
+}
+
+.blog-subtitle{
+  color: var(--muted);
+  margin: 0;
+}
+
+/* Meta line inside cards */
+.card-meta{
+  margin-top: 0.25rem;
+  font-size: 0.92rem;
+  color: var(--muted2);
+}
+
+/* Make blog cards feel a bit “editorial” */
+.card-text{
+  margin-top: 0.6rem;
+}
+
+
 
 /* Lists spacing */
 ul li{ margin-bottom: 0.45rem; }
