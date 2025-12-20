@@ -9,10 +9,11 @@ description: Portfolio of René Cano, ITC student focused on software engineerin
   <p class="hero-role">Computer Technologies Engineering (ITC) student</p>
 
   <div class="hero-cta">
-    <a class="btn btn-primary" href="/projects/">Projects</a>
+    <a class="btn btn-ghost" href="/projects/">Projects</a>
     <a class="btn btn-ghost" href="/blog/">Blog</a>
     <a class="btn btn-ghost" href="/about/">About</a>
   </div>
+
 
 </div>
 
