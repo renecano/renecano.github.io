@@ -4,4 +4,4 @@ title: Home
 permalink: /home/
 ---
 
-Redirecting...
+[Go to Home](/)
