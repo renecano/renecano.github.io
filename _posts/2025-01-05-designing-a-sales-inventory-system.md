@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designing a Sales & Inventory System with Streamlit"
-date: 2025-01-05
+date: 2025-10-05
 categories: blog projects
 ---
 
