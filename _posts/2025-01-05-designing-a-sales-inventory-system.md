@@ -95,3 +95,10 @@ This project continues to evolve as I learn more.
 
 **Repository:**  
 https://github.com/renecano/ventas-inventario-streamlit
+
+---
+
+You can also explore:
+- [All projects](/projects/)
+- [More technical posts](/blog/)
+
