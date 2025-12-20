@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
+description: Software, data, and IoT projects developed by René Cano, ITC student at Tecnológico de Monterrey.
+
 ---
 
 Here are some of my main projects. Each one includes a short description, key features, and the repository link.
