@@ -13,6 +13,7 @@ description: Portfolio of René Cano, ITC student focused on software engineerin
     <a class="btn btn-ghost" href="/blog/">Blog</a>
     <a class="btn btn-ghost" href="/about/">About</a>
   </div>
+
 </div>
 
 
