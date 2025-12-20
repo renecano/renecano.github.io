@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Designing a Sales & Inventory System with Streamlit"
+description: "Design and implementation of a sales and inventory system using Streamlit, Python, and SQL, focused on practical business needs."
 date: 2025-10-05
 categories: blog projects
 ---
