@@ -4,7 +4,6 @@ title: ""
 permalink: /
 description: Portfolio of René Cano, ITC student focused on software engineering, data-driven systems, and IoT projects.
 ---
-
 <div class="hero">
   <h3>René Cano</h3>
   <p><strong>Computer Technologies Engineering (ITC) student</strong></p>
