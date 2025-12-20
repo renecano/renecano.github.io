@@ -4,6 +4,7 @@ title: "Visualizing Parallelism with Fork/Join and DAGs (Java + JavaFX)"
 description: "Visualization of parallel execution using Fork/Join and DAGs in Java and JavaFX, including simulation and graph validation."
 date: 2025-12-12
 categories: blog projects java concurrency
+permalink: /blog/projects/fork-join-dag-visualizer/
 ---
 
 This project explores **parallelism and task coordination** by visualizing **Fork/Join execution** using **Directed Acyclic Graphs (DAGs)**.
