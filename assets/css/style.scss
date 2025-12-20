@@ -72,3 +72,26 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Make header smaller and cleaner */
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid #eee;
+}
+
+.site-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Move focus to nav */
+.site-nav .page-link {
+  font-weight: 600;
+  margin-left: 1rem;
+}
+
+/* Reduce top spacing so hero appears sooner */
+.page-content {
+  padding-top: 2rem;
+}
+
