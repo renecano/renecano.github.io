@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Real Projects as an ITC Student"
-date: 2025-01-01
+date: 2025-12-19
 categories: blog
 ---
 
