@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Hi, I'm René Cano
+title: ""
 permalink: /
 description: Portfolio of René Cano, ITC student focused on software engineering, data-driven systems, and IoT projects.
 ---
 
 <div class="hero">
-
-### René Cano  
-**Computer Technologies Engineering (ITC) student**  
-Building software, data-driven systems, and IoT projects.
-
+  <h3>René Cano</h3>
+  <p><strong>Computer Technologies Engineering (ITC) student</strong></p>
+  <p>Building software, data-driven systems, and IoT projects.</p>
 </div>
+
 
 
 I’m a **Computer Technologies Engineering (ITC)** student at *Tecnológico de Monterrey* who builds **real-world software and engineering projects** focused on data, systems, and applied technology.
