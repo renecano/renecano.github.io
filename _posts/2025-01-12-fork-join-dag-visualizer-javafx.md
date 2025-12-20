@@ -106,3 +106,9 @@ Future improvements could include:
 
 **Repository:**  
 https://github.com/renecano/grafos-fork-join-visualizer
+
+---
+You can also explore:
+- [All projects](/projects/)
+- [More technical posts](/blog/)
+
