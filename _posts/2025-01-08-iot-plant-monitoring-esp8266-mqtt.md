@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an IoT Plant Monitoring System (ESP8266 + MQTT + Flask)"
-date: 2025-01-08
+date: 2025-11-08
 categories: blog projects iot
 ---
 
