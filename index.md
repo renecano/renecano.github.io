@@ -36,41 +36,32 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 ### Featured Work
 
-<div class="grid">
-
-  <div class="card">
-    <div class="card-title">Sales & Inventory System (Streamlit)</div>
-    <div class="card-text">
-      Practical web app for small businesses with data persistence and analytics.
-    </div>
-    <div class="card-actions">
-      <a class="btn btn-ghost" href="/projects/">Projects</a>
-      <a class="btn btn-ghost" href="/blog/">Blog</a>
-    </div>
+<div class="featured-item">
+  <strong>Sales & Inventory System (Streamlit)</strong><br>
+  Practical web app for small businesses with data persistence and analytics.
+  <div class="featured-actions">
+    <a class="btn btn-ghost" href="/projects/">Projects</a>
+    <a class="btn btn-ghost" href="/blog/">Blog</a>
   </div>
-
-  <div class="card">
-    <div class="card-title">IoT Plant Monitoring System</div>
-    <div class="card-text">
-      End-to-end IoT solution using ESP8266, MQTT, Flask, and SQLite.
-    </div>
-    <div class="card-actions">
-      <a class="btn btn-ghost" href="/blog/">Read post</a>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-title">Fork/Join DAG Visualizer (JavaFX)</div>
-    <div class="card-text">
-      Interactive visualization of parallel execution using DAGs and Fork/Join.
-      <span class="badge">Top 3 Prototype – Expo Ingeniería</span>
-    </div>
-    <div class="card-actions">
-      <a class="btn btn-ghost" href="/blog/">Technical breakdown</a>
-    </div>
-  </div>
-
 </div>
+
+<div class="featured-item">
+  <strong>IoT Plant Monitoring System</strong><br>
+  End-to-end IoT solution using ESP8266, MQTT, Flask, and SQLite.
+  <div class="featured-actions">
+    <a class="btn btn-ghost" href="/blog/">Read post</a>
+  </div>
+</div>
+
+<div class="featured-item">
+  <strong>Fork/Join DAG Visualizer (JavaFX)</strong><br>
+  Interactive visualization of parallel execution using DAGs and Fork/Join.
+  <span class="badge">Top 3 Prototype – Expo Ingeniería</span>
+  <div class="featured-actions">
+    <a class="btn btn-ghost" href="/blog/">Technical breakdown</a>
+  </div>
+</div>
+
 
 
 ---
