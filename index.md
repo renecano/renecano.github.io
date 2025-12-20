@@ -56,7 +56,7 @@ I’m especially interested in turning **theory into practical solutions** throu
     </div>
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
-      <a class="btn btn-ghost" href="/2025/01/08/iot-plant-monitoring-esp8266-mqtt/">Read post</a>
+      <a class="btn btn-ghost" href="/blog/projects/iot-plant-monitoring/">Read post</a>
     </div>
   </div>
 
@@ -68,7 +68,7 @@ I’m especially interested in turning **theory into practical solutions** throu
     </div>
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
-      <a class="btn btn-ghost" href="/2025/01/12/fork-join-dag-visualizer-javafx/">Technical breakdown</a>
+      <a class="btn btn-ghost" href="/blog/projects/fork-join-dag-visualizer/">Technical breakdown</a>
     </div>
   </div>
 
