@@ -67,4 +67,32 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </div>
   </div>
 
+  <div class="card">
+  <div class="card-title">Home Inventory System (Full-Stack App)</div>
+  <div class="card-text">
+    Full-stack home inventory management system to track products, consumption, and restocks, with minimum stock alerts and smart usage-based predictions.
+  </div>
+  <ul>
+    <li>Product & stock management with minimum thresholds</li>
+    <li>Consumption and restock history tracking</li>
+    <li>Smart prediction of remaining stock days</li>
+    <li>FastAPI REST backend + Next.js frontend</li>
+    <li>Dockerized monorepo architecture</li>
+  </ul>
+  <div class="card-actions">
+    <a
+      class="btn btn-primary"
+      href="https://github.com/renecano/home-inventory-system"
+      target="_blank"
+      rel="noopener"
+    >
+      Repository
+    </a>
+    <a class="btn btn-ghost" href="/blog/projects/home-inventory-system/">
+      Case study
+    </a>
+  </div>
+</div>
+
+
 </div>
