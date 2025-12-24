@@ -34,7 +34,7 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 ---
 
-### Featured Work
+### Selected Projects
 
 <div class="grid">
 
@@ -48,6 +48,19 @@ I’m especially interested in turning **theory into practical solutions** throu
       <a class="btn btn-ghost" href="/blog/projects/sales-inventory-system/">Read case study</a>
     </div>
   </div>
+
+  <div class="card">
+    <div class="card-title">Home Inventory System (Full-Stack)</div>
+    <div class="card-text">
+      Full-stack home inventory system with consumption tracking, low-stock alerts,
+      and smart usage-based predictions.
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
+      <a class="btn btn-ghost" href="/blog/projects/home-inventory-system/">Read case study</a>
+    </div>
+  </div>
+
 
   <div class="card">
     <div class="card-title">IoT Plant Monitoring System</div>
@@ -73,8 +86,6 @@ I’m especially interested in turning **theory into practical solutions** throu
   </div>
 
 </div>
-
-
 
 
 ---
