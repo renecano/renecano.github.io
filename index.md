@@ -27,10 +27,12 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 
 ### What I build
-- Data-driven applications and dashboards  
-- Backend systems and software tools  
+- Full-stack web applications  
+- Data-driven systems and dashboards  
+- Backend APIs and software tools  
 - IoT prototypes and monitoring systems  
 - Visual and interactive engineering solutions  
+
 
 ---
 
