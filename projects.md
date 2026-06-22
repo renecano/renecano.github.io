@@ -100,7 +100,7 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </ul>
     <div class="card-actions">
       <a class="btn btn-primary" href="https://github.com/renecano/urbanmindx" target="_blank" rel="noopener">Repository</a>
-      <a class="btn btn-ghost" href="https://anmindx.netlify.app" target="_blank" rel="noopener">Live demo</a>
+      <a class="btn btn-ghost" href="https://urbanmindx.netlify.app/" target="_blank" rel="noopener">Live demo</a>
       <a class="btn btn-ghost" href="/blog/projects/urbanmindx/">Technical breakdown</a>
     </div>
   </div>
@@ -118,7 +118,7 @@ Here are some of my main projects. Each includes a short overview, key highlight
       <li>Full data dictionary + ERD delivered to client</li>
     </ul>
     <div class="card-actions">
-      <a class="btn btn-primary" href="https://github.com/renecano/cesvi-rat" target="_blank" rel="noopener">Repository</a>
+      <a class="btn btn-primary" href="https://github.com/IsoleucineDev/CESVI-PROYECTO" target="_blank" rel="noopener">Repository</a>
       <a class="btn btn-ghost" href="/blog/projects/cesvi-rat/">Case study</a>
     </div>
   </div>
