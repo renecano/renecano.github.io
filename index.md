@@ -60,6 +60,17 @@ I'm especially interested in turning **theory into practical solutions** through
   </div>
 
   <div class="card">
+    <div class="card-title">Sales & Inventory System (Streamlit)</div>
+    <div class="card-text">
+      Practical web app for small businesses with data persistence and analytics.
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
+      <a class="btn btn-ghost" href="/blog/projects/sales-inventory-system/">Read case study</a>
+    </div>
+  </div>
+
+  <div class="card">
     <div class="card-title">Home Inventory System (Full-Stack)</div>
     <div class="card-text">
       Full-stack home inventory system with consumption tracking, low-stock alerts, and smart usage-based predictions.
@@ -67,6 +78,17 @@ I'm especially interested in turning **theory into practical solutions** through
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
       <a class="btn btn-ghost" href="/blog/projects/home-inventory-system/">Read case study</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">IoT Plant Monitoring System</div>
+    <div class="card-text">
+      End-to-end IoT solution using ESP8266, MQTT, Flask, and SQLite.
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
+      <a class="btn btn-ghost" href="/blog/projects/iot-plant-monitoring/">Read post</a>
     </div>
   </div>
 
