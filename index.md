@@ -60,6 +60,28 @@ I'm especially interested in turning **theory into practical solutions** through
   </div>
 
   <div class="card">
+    <div class="card-title">FakeNewsDetector AI (RoBERTa + NLP)</div>
+    <div class="card-text">
+      Misinformation detection with 99.84% accuracy — neural + heuristic fusion that catches pseudoscientific content disguised as legitimate journalism.
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
+      <a class="btn btn-ghost" href="/blog/projects/fakenews-detector-ai/">Technical breakdown</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">NeuroFocusAI — Student Attention Analysis</div>
+    <div class="card-text">
+      Real-time computer vision system that classifies student attention states using MediaPipe facial landmarks and generates session summaries.
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
+      <a class="btn btn-ghost" href="/blog/projects/neurofocusai/">Technical breakdown</a>
+    </div>
+  </div>
+
+  <div class="card">
     <div class="card-title">Sales & Inventory System (Streamlit)</div>
     <div class="card-text">
       Practical web app for small businesses with data persistence and analytics.
