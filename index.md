@@ -2,37 +2,33 @@
 layout: page
 title: ""
 permalink: /
-description: Portfolio of René Cano, ITC student focused on software engineering, data-driven systems, and IoT projects.
+description: Portfolio of René Cano, ITC student focused on software engineering, reinforcement learning, data-driven systems, and IoT projects.
 ---
+
 <div class="hero">
   <h1>René Cano</h1>
   <p class="hero-role">Computer Technologies Engineering (ITC) student</p>
-
   <div class="hero-cta">
     <a class="btn btn-ghost" href="/projects/">Projects</a>
     <a class="btn btn-ghost" href="/blog/">Blog</a>
     <a class="btn btn-ghost" href="/about/">About</a>
   </div>
-
-
 </div>
 
+I'm a **Computer Technologies Engineering (ITC)** student at *Tecnológico de Monterrey* who builds **real-world software and engineering projects** focused on data, systems, and applied technology.
 
-
-I’m a **Computer Technologies Engineering (ITC)** student at *Tecnológico de Monterrey* who builds **real-world software and engineering projects** focused on data, systems, and applied technology.
-
-I’m especially interested in turning **theory into practical solutions** through hands-on development.
+I'm especially interested in turning **theory into practical solutions** through hands-on development — from reinforcement learning agents to full-stack web systems and forensic data platforms.
 
 ---
 
-
 ### What I build
-- Full-stack web applications  
-- Data-driven systems and dashboards  
-- Backend APIs and software tools  
-- IoT prototypes and monitoring systems  
-- Visual and interactive engineering solutions  
 
+- Reinforcement learning and AI systems
+- Full-stack web applications
+- Data-driven systems and dashboards
+- Backend APIs and software tools
+- IoT prototypes and monitoring systems
+- Visual and interactive engineering solutions
 
 ---
 
@@ -41,37 +37,36 @@ I’m especially interested in turning **theory into practical solutions** throu
 <div class="grid">
 
   <div class="card">
-    <div class="card-title">Sales & Inventory System (Streamlit)</div>
+    <div class="card-title">UrbanMind X — RL Traffic Control</div>
     <div class="card-text">
-      Practical web app for small businesses with data persistence and analytics.
+      PPO agent that reduced average wait time by 78.2% at a real Toluca intersection using SUMO + Gymnasium.
+      <span class="badge">1st Place – Expo Ingenierías 2026</span>
+    </div>
+    <div class="card-actions">
+      <a class="btn btn-ghost" href="https://anmindx.netlify.app" target="_blank" rel="noopener">Live demo</a>
+      <a class="btn btn-ghost" href="/blog/projects/urbanmindx/">Technical breakdown</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">CESVI RAT — Accident Reconstruction System</div>
+    <div class="card-text">
+      Forensic full-stack platform for CESVI México with a 54-table MySQL schema, Laravel backend, and McHenry CRASH3 velocity calculations.
     </div>
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
-      <a class="btn btn-ghost" href="/blog/projects/sales-inventory-system/">Read case study</a>
+      <a class="btn btn-ghost" href="/blog/projects/cesvi-rat/">Case study</a>
     </div>
   </div>
 
   <div class="card">
     <div class="card-title">Home Inventory System (Full-Stack)</div>
     <div class="card-text">
-      Full-stack home inventory system with consumption tracking, low-stock alerts,
-      and smart usage-based predictions.
+      Full-stack home inventory system with consumption tracking, low-stock alerts, and smart usage-based predictions.
     </div>
     <div class="card-actions">
       <a class="btn btn-ghost" href="/projects/">View in Projects</a>
       <a class="btn btn-ghost" href="/blog/projects/home-inventory-system/">Read case study</a>
-    </div>
-  </div>
-
-
-  <div class="card">
-    <div class="card-title">IoT Plant Monitoring System</div>
-    <div class="card-text">
-      End-to-end IoT solution using ESP8266, MQTT, Flask, and SQLite.
-    </div>
-    <div class="card-actions">
-      <a class="btn btn-ghost" href="/projects/">View in Projects</a>
-      <a class="btn btn-ghost" href="/blog/projects/iot-plant-monitoring/">Read post</a>
     </div>
   </div>
 
@@ -89,31 +84,29 @@ I’m especially interested in turning **theory into practical solutions** throu
 
 </div>
 
-
 ---
 
-
 ### Why this site exists
+
 This portfolio documents my growth as an engineer through:
-- Real projects  
-- Technical decisions  
-- Lessons learned while building systems  
+
+- Real projects
+- Technical decisions
+- Lessons learned while building systems
 
 Each project is backed by code and technical explanations.
 
 ---
 
-
 ### Explore more
+
 - [Projects](/projects/)
 - [Blog](/blog/)
 - [About me](/about/)
 
-
 ---
 
-
 ### Contact
-- LinkedIn: https://www.linkedin.com/in/rene-emiliano-cano-fuentes  
-- Email: renecano.f@gmail.com
 
+- LinkedIn: https://www.linkedin.com/in/rene-emiliano-cano-fuentes
+- Email: renecano.f@gmail.com
