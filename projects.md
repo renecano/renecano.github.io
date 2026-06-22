@@ -123,4 +123,40 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </div>
   </div>
 
+  <div class="card">
+    <div class="card-title">NeuroFocusAI — Student Attention Analysis</div>
+    <div class="card-text">
+      Real-time computer vision system that detects facial landmarks, eye behavior, and head position to classify student attention states and generate session summaries.
+    </div>
+    <ul>
+      <li>4-state classification: Focused, Distracted, Fatigued, Stressed</li>
+      <li>MediaPipe 468-point facial landmark detection</li>
+      <li>Blink rate tracking and head pose estimation</li>
+      <li>AI-generated session summaries</li>
+      <li>Web dashboard for visualization</li>
+    </ul>
+    <div class="card-actions">
+      <a class="btn btn-primary" href="https://github.com/renecano/NeuroFocusAI" target="_blank" rel="noopener">Repository</a>
+      <a class="btn btn-ghost" href="/blog/projects/neurofocusai/">Technical breakdown</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">FakeNewsDetector AI (RoBERTa + NLP)</div>
+    <div class="card-text">
+      Misinformation detection system fine-tuned on RoBERTa that classifies news as Reliable, Doubtful, or Fake — including pseudoscientific content that mimics legitimate journalism.
+    </div>
+    <ul>
+      <li>99.84% validation accuracy on ~8,500 news articles</li>
+      <li>Neural + heuristic fusion (RoBERTa 80% / regex 20%)</li>
+      <li>Pseudoscience pattern detection via custom regex</li>
+      <li>Gradio web interface + REST API</li>
+      <li>Fine-tuned on Google Colab with NVIDIA T4 GPU</li>
+    </ul>
+    <div class="card-actions">
+      <a class="btn btn-primary" href="https://github.com/renecano/FakeNewsDetectorAI" target="_blank" rel="noopener">Repository</a>
+      <a class="btn btn-ghost" href="/blog/projects/fakenews-detector-ai/">Technical breakdown</a>
+    </div>
+  </div>
+
 </div>
