@@ -93,6 +93,47 @@ Here are some of my main projects. Each includes a short overview, key highlight
     </a>
   </div>
 </div>
+&lt;!-- ============================================================
+     PEGA ESTAS DOS CARDS dentro del <div class="grid"> en projects.md,
+     ANTES del cierre </div> final.
+     ============================================================ --&gt;
 
+  &lt;div class="card"&gt;
+    &lt;div class="card-title"&gt;UrbanMind X — Reinforcement Learning Traffic Control&lt;/div&gt;
+    &lt;div class="card-text"&gt;
+      PPO-based RL agent that optimizes traffic signals and autonomous vehicle flow at a real Toluca intersection, achieving a 78.2% reduction in average wait time.
+      &lt;span class="badge"&gt;1st Place – Expo Ingenierías 2026&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;ul&gt;
+      &lt;li&gt;PPO agent trained with Stable-Baselines3 + Gymnasium&lt;/li&gt;
+      &lt;li&gt;Real intersection simulation (Pino Suárez × Carranza) via SUMO/TraCI&lt;/li&gt;
+      &lt;li&gt;Wait time reduced from 303 s to 66 s (78.2%)&lt;/li&gt;
+      &lt;li&gt;Three.js animated dashboard deployed on Netlify&lt;/li&gt;
+      &lt;li&gt;APA 7 journal article + scientific poster&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class="card-actions"&gt;
+      &lt;a class="btn btn-primary" href="https://github.com/renecano/urbanmindx" target="_blank" rel="noopener"&gt;Repository&lt;/a&gt;
+      &lt;a class="btn btn-ghost" href="https://anmindx.netlify.app" target="_blank" rel="noopener"&gt;Live demo&lt;/a&gt;
+      &lt;a class="btn btn-ghost" href="/blog/projects/urbanmindx/"&gt;Technical breakdown&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="card"&gt;
+    &lt;div class="card-title"&gt;CESVI RAT — Traffic Accident Reconstruction System&lt;/div&gt;
+    &lt;div class="card-text"&gt;
+      Full-stack forensic system for accident reconstruction and transit analysis, built for CESVI México. Handles deformation measurements, velocity calculations, and detailed incident reporting.
+    &lt;/div&gt;
+    &lt;ul&gt;
+      &lt;li&gt;54-table MySQL schema — designed and documented as DB coordinator&lt;/li&gt;
+      &lt;li&gt;Laravel backend with Eloquent models and migrations&lt;/li&gt;
+      &lt;li&gt;McHenry CRASH3 coefficients for forensic velocity estimation&lt;/li&gt;
+      &lt;li&gt;Cross-functional team: backend, frontend, QA, AI&lt;/li&gt;
+      &lt;li&gt;Full data dictionary + ERD delivered to client&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;div class="card-actions"&gt;
+      &lt;a class="btn btn-primary" href="https://github.com/renecano/cesvi-rat" target="_blank" rel="noopener"&gt;Repository&lt;/a&gt;
+      &lt;a class="btn btn-ghost" href="/blog/projects/cesvi-rat/"&gt;Case study&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 
 </div>
