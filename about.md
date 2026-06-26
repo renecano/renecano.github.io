@@ -31,7 +31,6 @@ I enjoy learning by building and iterating on real projects, including work deve
 
 - **1st Place – Expo Ingenierías 2026** with UrbanMind X, a PPO-based RL system for adaptive traffic control
 - **Database Coordinator** on CESVI RAT, a forensic accident reconstruction platform built for CESVI México
-- **Market Developer** at PepsiCo México, building operational analytics dashboards for División Toluca
 
 ---
 
